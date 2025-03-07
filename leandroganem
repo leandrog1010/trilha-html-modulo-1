@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title> <strong>O que aprendi no primeiro módulo</strong> </title>
+</head>
+<body>
+  <h1 id="início"><mark>Exemplos do que aprendi</mark></h1>
+  <hr />
+  <h2>Índice</h2>
+  <ol>
+    <li><a href="#tag p">O que faz o p</a></li>
+    <li><a href="#tag br">O que faz o br</a></li>
+    <li><a href="#o que faz h1">O que faz o h1</a></li>
+    <li><a href="#o que faz h2">O que faz o h2</a></li>
+    <li><a href="#o que faz sub">O que faz o sub</a></li>
+    <li><a href="#o que faz del">O que faz o del</a></li>
+    <li><a href="#">Links de referências</a></li>
+  </ol>
+
+ <h2> id="tag p">O que faz o p</h2>
+ <small><a href="#início">(Voltar)</a></small>
+ <p> style="font-family:verdana;"> A tag p é usada para definir blocos de texto que formam parágrafos em uma página web</p>
+ <p>A tag p automaticamente cria uma quebra de linha antes e depois do parágrafo</p>
+
+ <h2> id="tag br">O que faz o br</h2>
+ <small><a href="#início">(Voltar)</a></small>
+ <p>A tag br em <i><abbr tittle="HyperText Markup Language">HTML</abbr></i> é usada para inserir uma quebra de linha</p>
+ <p>Ela permite que você quebre uma linha de texto sem iniciar um novo parágrafo</p>
+
+ <h2> id="o que faz h1">O que faz o h1</h2>
+ <small><a href="#início">(Voltar)</a></small>
+ <p>A tag h1 em HTML é usada para definir um cabeçalho de nível 1</p>
+ <p>Ela representa o título mais importante dentro de um documento HTML e é geralmente utilizada para o título principal de uma página ou seção</p>
+
+ <h2> id="o que faz h2">O que faz o h2</h2>
+ <small><a href="#início">(Voltar)</a></small>
+ <p>A tag h2 em HTML é usada para definir um cabeçalho de nível 2</p>
+ <p>Ela é utilizada para criar subtítulos ou seções dentro de um documento HTML, hierarquicamente abaixo do cabeçalho de nível 1</p>
+
+ <h2> id="o que faz sub">O que faz o sub</h2>
+ <small><a href="#início">(Voltar)</a></small>
+ <p>A tag sub em HTML é utilizada para exibir texto em subscrito</p>
+ <p>Como por exemplo, a fórmula da água é H<sub>2</sub>O</p>
+ <p>Já a tag sup em HTML é utilizada para exibir texto em sobrescrito. Exemplo: A expressão matemática para a área de um círculo é A = πr<sup>2</sup></p>
+
+ <h2> id="o que faz del">O que faz o del</h2>
+ <small><a href="#início">(Voltar)</a></small>
+ <p>A tag del em HTML é utilizada para indicar que um texto foi removido ou deletado de um documento</p>
+
+ <blockquote>
+    <p>"O propósito é tão importante quanto a funcionalidade." - Leandro Ganem</p>
+</blockquote>
+
+ <h2><small><u>Links de referências</small></u></h2>
+ <ul>
+    <li><a href="https://www.dio.me" target="_blank"></a></li>
+    <li><a href="https://www.w3c.org" target="_blank"></a></li>
+ </ul>
+
+</body>
+</html>
+
+
